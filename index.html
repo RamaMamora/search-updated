@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/index.js" type="module"></script>
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Products</h1>
+
+    <div class="search-field">
+
+        <select id="category">
+            <option value="all">Alle</option>
+            <option value="Home Entertainment">Underholdning</option>
+            <option value="Electronics">Elektronik</option>
+            <option value="Home Appliances">Diverse</option>
+            <option value="Computers">Computere</option>
+            <option value="Health & Personal Care">Personlig Pleje</option>
+        </select>
+
+        <input type="range" id="price" min="0" max="2000">
+        Pris: max <span class="price-output">500</span>kr
+
+        <input type="search" placeholder="Du kan søge her..." id="search">
+        <button id="search-btn">Søg</button>
+    </div>
+
+    <div class="product-container"></div>
+
+    <button class="btnGrid">Grid</button>
+    <button class="btnList">List</button>
+    
+</body>
+</html>

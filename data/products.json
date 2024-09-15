@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+    "title": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise-canceling technology and up to 20 hours of battery life.",
+    "price": 999.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 1,
+    "title": "Smart Watch",
+    "description": "Water-resistant smart watch with health tracking, GPS, and customizable watch faces.",
+    "price": 1499.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass, 360-degree sound, and 10-hour playtime.",
+    "price": 799.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "title": "4K Ultra HD TV",
+    "description": "65-inch 4K Ultra HD Smart TV with HDR support and built-in streaming apps.",
+    "price": 4999.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Entertainment"
+  },
+  {
+    "id": 4,
+    "title": "Gaming Laptop",
+    "description": "Powerful gaming laptop with a 15.6-inch display, Intel i7 processor, and 16GB RAM.",
+    "price": 8999.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Computers"
+  },
+  {
+    "id": 5,
+    "title": "Smartphone",
+    "description": "Latest generation smartphone with a 6.5-inch display, triple-camera system, and 128GB storage.",
+    "price": 7499.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Mobile Devices"
+  },
+  {
+    "id": 6,
+    "title": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with smart sensor technology and multiple brushing modes.",
+    "price": 499.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Health & Personal Care"
+  },
+  {
+    "id": 7,
+    "title": "Fitness Tracker",
+    "description": "Sleek fitness tracker with heart rate monitoring, sleep tracking, and step counter.",
+    "price": 599.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "title": "Robot Vacuum Cleaner",
+    "description": "Automatic robot vacuum cleaner with smart navigation and powerful suction.",
+    "price": 2499.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 9,
+    "title": "Air Purifier",
+    "description": "HEPA air purifier with a 3-stage filtration system to remove allergens and pollutants.",
+    "price": 1299.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 10,
+    "title": "Tablet",
+    "description": "High-performance tablet with 10.2-inch display, 64GB storage, and stylus support.",
+    "price": 3999.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Mobile Devices"
+  },
+  {
+    "id": 11,
+    "title": "Digital Camera",
+    "description": "Compact digital camera with 20MP sensor, 4K video recording, and Wi-Fi connectivity.",
+    "price": 2999.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 12,
+    "title": "Blender",
+    "description": "High-power blender with multiple speed settings and a durable glass jar.",
+    "price": 799.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 13,
+    "title": "Smart Doorbell",
+    "description": "Wi-Fi connected smart doorbell with HD video, two-way audio, and motion detection.",
+    "price": 1099.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Security"
+  },
+  {
+    "id": 14,
+    "title": "Wireless Charger",
+    "description": "Fast wireless charger with support for multiple devices, including smartphones and smartwatches.",
+    "price": 399.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 15,
+    "title": "Laptop Stand",
+    "description": "Ergonomic laptop stand with adjustable height and ventilation for improved cooling.",
+    "price": 299.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Computers"
+  },
+  {
+    "id": 16,
+    "title": "Streaming Media Player",
+    "description": "4K streaming media player with voice control, Dolby Vision, and built-in smart assistant.",
+    "price": 699.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Entertainment"
+  },
+  {
+    "id": 17,
+    "title": "Noise-Canceling Earbuds",
+    "description": "Compact wireless earbuds with active noise cancellation and a 24-hour battery life.",
+    "price": 1299.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Electronics"
+  },
+  {
+    "id": 18,
+    "title": "Smart Thermostat",
+    "description": "Energy-efficient smart thermostat with app control and programmable schedules.",
+    "price": 1499.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Home Appliances"
+  },
+  {
+    "id": 19,
+    "title": "Wireless Keyboard and Mouse",
+    "description": "Slim wireless keyboard and mouse combo with long battery life and ergonomic design.",
+    "price": 699.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Computers"
+  },
+  {
+    "id": 20,
+    "title": "Smart Scale",
+    "description": "Smart scale with body composition analysis and Bluetooth connectivity to fitness apps.",
+    "price": 599.99,
+    "image": "https://picsum.photos/300/300?",
+    "category": "Health & Personal Care"
+  }
+]
